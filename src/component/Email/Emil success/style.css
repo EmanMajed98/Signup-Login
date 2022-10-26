@@ -1,0 +1,48 @@
+  .emailverifi{
+    letter-spacing: .7px;
+    color: #000000;
+    margin-left:160px;
+    font-size:15px;
+    }
+    .hero{
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 0px 3px 6px #00000029;
+    width:450px ;
+    height:300px;
+    border-radius: 10px;
+    padding-top:100px;
+    margin-left:30%;
+    margin-top:60px;
+    }
+    .succemail{
+    width:300px;
+    height:400px;
+    margin-left:75px;      
+    }
+    img{
+    width:60px;
+    height: 60px;
+    margin-left:120px;  
+    }
+    .parhead{
+    margin-bottom: 20px;
+    text-align: center;
+    color: #707070;
+    }
+    .parg1{
+    font-size: 14px;
+    color: #707070;
+    margin-bottom: 30px;
+    }
+    button{
+    margin-top:40px;
+    width:300px;
+    height:35px;
+    background: #4375FF;
+    border-radius: 7px ;
+    border:none;
+    color: #fff;
+    font-size:15px;
+    }
+    

@@ -1,0 +1,108 @@
+.title{
+    letter-spacing: .7px;
+    color:#000;
+    margin-left:560px;
+    font-size:15px;
+    padding-top: 30px;
+    }
+   .hero{
+   box-sizing: border-box;
+   background-color: #fff;
+   box-shadow: 0px 3px 6px #00000029;
+   width:450px ;
+   height:550px;
+   border-radius: 10px;
+   padding-top:30px;
+   margin-left:30%;
+   margin-top:60px;
+   }
+   .verifi{
+   width:300px;
+   height:400px;
+   margin-left:75px;      
+   }
+   img{
+   width:50px;
+   height:50px;
+   margin-left:130px;  
+   }
+   .parg1{
+   font-size: 14px;
+   color: #707070;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   }
+   .lab1{
+    font-size:13px;
+    letter-spacing: 0.4px;
+    color:#707070;
+    margin-left:-20px;
+   }
+   .select1{ 
+    width: 354px;
+    height:35px;
+    border-radius:7px ;
+    border:.5px solid #BEC2C6;
+    margin-top:5px;
+    margin-left:-23px;
+   }
+   .inpparent{
+    display: flex;
+    margin-top: 20px;
+   }
+   input{
+    width:150px;
+    height:30px;
+    border-radius: 5px;
+    border: .5px solid #BEC2C6;
+  }
+  .input1{
+    margin-left:-20px;
+    margin-right: 60px;
+  }
+  .input2{
+    margin-left:-20px;
+    margin-right: 65px;
+  }
+  .lab2,.lab3{
+    font-size:13px;
+    letter-spacing: 0.4px;
+    color:#707070;
+    margin-left:-20px;
+  }
+  ::placeholder{
+    color: #BEC2C6;
+  }
+  .select2{
+    width:155px;
+    height:33px;
+    border-radius: 5px;
+    border: .5px solid #BEC2C6;
+    margin-left:-25px;
+  }
+  .inpfile{
+    width: 350px;
+    height:35px;
+    border-radius:7px ;
+    border:.5px solid #BEC2C6;
+    margin-top:20px;
+    margin-left:-24px
+  }
+  .pargfile{
+    width:240px;
+    color:#6C6969;
+    font-size: 11px;
+    margin-left:-20px;
+  }
+   button{
+   margin-top:20px;
+   width:355px;
+   height:35px;
+   margin-left:-20px;
+   background: #4375FF;
+   border-radius: 7px ;
+   border:none;
+   color: #fff;
+   font-size:15px;
+   }
+   
